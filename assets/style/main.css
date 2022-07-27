@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-style: oblique;
+   font-family: cursive;
+}
+
+/*setion*/
+body {
+    background: #d4c3ce;
+    text-align: center;
+}
+
+/*setion*/
+header {
+    background: #738e9e;
+}
+
+/*setion*/
+.jumbotron {
+    background: #d9d0de;
+   
+}
+/*setion*/
+.blog-grid {
+    background-color:#d9d0de;
+}
+
+/*setion*/
+.adicionales {
+    width: 100%;
+    background-color:#d9d0de;
+    color: rgb(0, 0, 0);
+    padding: 30px;
+    align-content: center;
+    text-align: center;
+}
+
+/*setion*/
+footer{
+    background-color:rgb(88, 111, 124); 
+}
+
+.footer-flex {
+    display: flex;
+    background-color:rgb(88, 111, 124);
+}
